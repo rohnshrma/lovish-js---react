@@ -128,6 +128,6 @@ var email = "hello@email.com"
 // mcdonalds => McDonalds
 // MCDONALDS => McDonalds
 
-var brand = prompt("Enter brand :")
+// var brand = prompt("Enter brand :")
 
-console.log(brand.charAt(0).toUpperCase() + brand.charAt(1).toLowerCase() + brand.charAt(2).toUpperCase() + brand.slice(3,).toLowerCase()  );
+// console.log(brand.charAt(0).toUpperCase() + brand.charAt(1).toLowerCase() + brand.charAt(2).toUpperCase() + brand.slice(3,).toLowerCase()  );
